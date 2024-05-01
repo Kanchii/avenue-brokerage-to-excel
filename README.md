@@ -1,6 +1,6 @@
-# Avenue's brokerage statements parser
+# Avenue's brokerage statements parser to Domuapp
 
-A simple script to convert Avenue's brokerage statements to excel, extracting some data.
+A simple script to convert Avenue's brokerage statements to Domuapp's excel format, extracting some data.
 To use, just follow the steps:
 
 1. use the command `pip install -r requirements.txt`, to install all script's depedencies
