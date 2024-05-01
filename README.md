@@ -1,7 +1,8 @@
 # Avenue's brokerage statements parser
 
-A simple script to convert Avenue's brokerage statements to excel, extracting some data
+A simple script to convert Avenue's brokerage statements to excel, extracting some data.
 To use, just follow the steps:
+
 1. use the command `pip install -r requirements.txt`, to install all script's depedencies
 2. create a PDF folder and upload any Avenue's brokerage statement that you want
 3. use the commend `python main.py` or `py main.py` to run the script
